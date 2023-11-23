@@ -1,0 +1,4 @@
+D:/Lumi/ROBI_BEVA/Library/IOT-Programming-with-ROBI-main/SDK_ROBI_STM32F0_1.0.0/shared/Middle/ucglib/ucg_scale.c:38:6:ucg_UndoScale	16	static
+D:/Lumi/ROBI_BEVA/Library/IOT-Programming-with-ROBI-main/SDK_ROBI_STM32F0_1.0.0/shared/Middle/ucglib/ucg_scale.c:52:6:ucg_scale_2x2_send_next_half_byte	32	static
+D:/Lumi/ROBI_BEVA/Library/IOT-Programming-with-ROBI-main/SDK_ROBI_STM32F0_1.0.0/shared/Middle/ucglib/ucg_scale.c:96:11:ucg_dev_scale2x2	48	static
+D:/Lumi/ROBI_BEVA/Library/IOT-Programming-with-ROBI-main/SDK_ROBI_STM32F0_1.0.0/shared/Middle/ucglib/ucg_scale.c:219:6:ucg_SetScale2x2	16	static
